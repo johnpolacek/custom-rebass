@@ -4,7 +4,7 @@ This is a tiny example of a way to customize Rebass: [jxnblk.com/rebass/](http:/
 
 See `src/components/UI.js` for creating custom components.
 
-See `src/
+See `src/components/Theme.js` for creating custom themes.
 
 --
 
